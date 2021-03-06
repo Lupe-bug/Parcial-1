@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Primera_app.cal">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
+                <Label Text="Calculadora Expres" HorizontalTextAlignment="Center" TextColor="White" FontSize="30"/>
+            </Frame>
+            <Label Text="Esta es una pequeña calculadora, cambia la operación por cada vez que realices una opercion diferente... " TextColor="Black" FontSize="18" HorizontalTextAlignment="Center" />
+            <Entry Placeholder="ingresa primer número aquí." x:Name="num1" HorizontalTextAlignment="Center" TextColor="Black" />
+            <Entry Placeholder="ingresa segundo número aquí." x:Name="num2" HorizontalTextAlignment="Center" TextColor="Black" />
+            <Label Text="Toque en la línea de abajo para seleccionar Operación." TextColor="Black" FontSize="18" HorizontalTextAlignment="Center" />
+            <Picker x:Name="pic" SelectedIndexChanged="pic_SelectedIndexChanged"/>
+            <Label Text="------" TextColor="Black" FontSize="Medium" x:Name="lares" HorizontalTextAlignment="Center"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

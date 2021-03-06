@@ -1,0 +1,17 @@
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\bin\Debug\netstandard2.0\Primera app.deps.json
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\bin\Debug\netstandard2.0\Primera app.dll
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\bin\Debug\netstandard2.0\ref\Primera app.dll
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\bin\Debug\netstandard2.0\Primera app.pdb
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\Primera app.csprojAssemblyReference.cache
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\Primera app.AssemblyInfoInputs.cache
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\Primera app.AssemblyInfo.cs
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\Primera app.csproj.CoreCompileInputs.cache
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\Primera app.dll
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\ref\Primera app.dll
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\Primera app.pdb
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\pro1.xaml.g.cs
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\pro2.xaml.g.cs
+C:\Users\barah\Downloads\progra\Primera app\Primera app\Primera app\obj\Debug\netstandard2.0\cal.xaml.g.cs

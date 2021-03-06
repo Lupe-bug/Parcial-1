@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Primera_app.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
+            <Label Text="¡Bienvenido!        ¿Estas listo para que te sorprenda?" HorizontalTextAlignment="Center" TextColor="White" FontSize="30"/>
+        </Frame>
+        <Label Text=" " FontSize="Medium" HorizontalTextAlignment="Center"/>
+        <Label Text="¿Qué quieres que te adivine? " FontSize="Medium" TextColor="Black" HorizontalTextAlignment="Center"/>
+        <Label Text=" &#10; " HorizontalTextAlignment="Center" />
+        <Button x:Name="pro1" Text="adivino el número que piensas" TextColor="White" BackgroundColor="Navy"  HorizontalOptions="CenterAndExpand"/>
+        <Label Text=" &#10; " HorizontalTextAlignment="Center" />
+        <Button x:Name="pro2" Text="Adivino La fecha de tu cumpleaños" TextColor="White" BackgroundColor="Navy" HorizontalOptions="CenterAndExpand"/>
+    </StackLayout>
+
+</ContentPage>
